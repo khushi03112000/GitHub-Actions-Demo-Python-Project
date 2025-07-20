@@ -24,6 +24,7 @@ This project demonstrates how to automate testing a simple Python addition scrip
 
 ---
 
+
 ### ▶️ GitHub Actions Workflow
 
 This project uses a GitHub Actions CI pipeline that:
@@ -37,7 +38,7 @@ This project uses a GitHub Actions CI pipeline that:
 
 | Section                              | Screenshot                    
 | ------------------------------------ | ---------------------------------------- |
-| Workflow YAML in GitHub UI           | What you uploaded                        |
+| Workflow YAML in GitHub UI           | <img width="1470" height="956" alt="Screenshot 2025-07-20 at 12 05 56 PM" src="https://github.com/user-attachments/assets/9f9b2c3f-7f5c-45d7-8254-a53817ac1875" />                        |
 | GitHub Actions run result | <img width="1470" height="956" alt="Screenshot 2025-07-20 at 11 39 38 AM" src="https://github.com/user-attachments/assets/24a4d29a-eea6-496e-b966-a329e9f8883b" />  |      
 
 
