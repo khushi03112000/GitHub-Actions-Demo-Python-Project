@@ -20,7 +20,7 @@ This project demonstrates how to automate testing a simple Python addition scrip
 ### What It Does
 
 * `addition.py`: Contains a function to add numbers and has inline test code using `pytest`.
-* `first-actions.yaml`: GitHub Actions workflow that sets up Python and runs the script through `pytest`.
+* `first-actions.yaml`: GitHub Actions workflow that sets up Python and runs the script through `pytest`. This GitHub Actions workflow automates the process of testing Python code whenever changes are pushed to a repository. This workflow ensures that your Python code is automatically tested with two different Python versions whenever you push changes. It helps catch bugs early and maintain code quality across environments.
 
 ---
 
